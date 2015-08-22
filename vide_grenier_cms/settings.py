@@ -150,6 +150,7 @@ INSTALLED_APPS = (
     'djangocms_inherit',
     'djangocms_link',
     'reversion',
+    'gunicorn',
     'vide_grenier_cms'
 )
 
